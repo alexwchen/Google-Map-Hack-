@@ -2,8 +2,8 @@ Google Map API Hack
 ===================
 
 #### Demo:
-![alt text](./PathDrawing/demo.png "LOGO")
-![alt text](./SFBusRealTime/demo.png "LOGO")
+![alt text](PathDrawing/demo.png "LOGO")
+![alt text](SFBusRealTime/demo.png "LOGO")
 
 
 How to start?
